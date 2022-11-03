@@ -1,3 +1,3 @@
 ### Team-Members
-* [Asfahan Shah](https://github.com/a-shah1200)  
-* [Atindra Shekhar](https://github.com/atindra305)  
+* Asfahan Shah (E19CSE116)
+* Atindra Shekhar (E19CSE187)  
