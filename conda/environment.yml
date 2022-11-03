@@ -1,4 +1,4 @@
-name: sih
+name: 
 channels:
   - conda-forge
 dependencies:
