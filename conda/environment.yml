@@ -1,7 +1,0 @@
-name: 
-channels:
-  - conda-forge
-dependencies:
-  - python=3.9.10
-  - flask
-  - numpy==1.19.1
